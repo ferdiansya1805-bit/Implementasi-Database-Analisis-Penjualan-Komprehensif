@@ -1,0 +1,51 @@
+id_perusahaan,nama_perusahaan,alamat,kota,provinsi,kode_pos,telepon,email,tanggal_berdiri,jumlah_karyawan,jenis_usaha
+1,Perusahaan Kuliner 1,Jl. Raya No. 58,Jakarta,DKI Jakarta,13278,8796233790,contact1@kuliner.com,1999-05-11,130,Restoran
+2,Perusahaan Kuliner 2,Jl. Raya No. 115,Bandung,Jawa Barat,28289,8790779946,contact2@kuliner.com,1993-06-27,351,Katering
+3,Perusahaan Kuliner 3,Jl. Raya No. 280,Surabaya,Jawa Timur,21395,8634036506,contact3@kuliner.com,2004-05-10,21,Kafe
+4,Perusahaan Kuliner 4,Jl. Raya No. 16,Medan,Sumatera Utara,22280,8234760738,contact4@kuliner.com,1997-12-01,263,Food Truck
+5,Perusahaan Kuliner 5,Jl. Raya No. 14,Yogyakarta,DI Yogyakarta,83563,8213500298,contact5@kuliner.com,2014-05-13,337,Bistro
+6,Perusahaan Kuliner 6,Jl. Raya No. 280,Semarang,Jawa Tengah,64987,8236696312,contact6@kuliner.com,2005-04-14,306,Warung Makan
+7,Perusahaan Kuliner 7,Jl. Raya No. 143,Denpasar,Bali,10851,8814763202,contact7@kuliner.com,2017-06-02,86,Bakery
+8,Perusahaan Kuliner 8,Jl. Raya No. 217,Makassar,Sulawesi Selatan,54597,8298362082,contact8@kuliner.com,1995-04-17,115,Kedai Kopi
+9,Perusahaan Kuliner 9,Jl. Raya No. 173,Jakarta,DKI Jakarta,23396,8099585092,contact9@kuliner.com,2002-12-05,54,Restoran
+10,Perusahaan Kuliner 10,Jl. Raya No. 184,Bandung,Jawa Barat,55082,8648245888,contact10@kuliner.com,1999-01-01,418,Katering
+11,Perusahaan Kuliner 11,Jl. Raya No. 23,Surabaya,Jawa Timur,70217,8575770529,contact11@kuliner.com,1994-04-01,477,Kafe
+12,Perusahaan Kuliner 12,Jl. Raya No. 194,Medan,Sumatera Utara,20328,8592749116,contact12@kuliner.com,1999-12-23,429,Food Truck
+13,Perusahaan Kuliner 13,Jl. Raya No. 186,Yogyakarta,DI Yogyakarta,85674,8206468299,contact13@kuliner.com,2013-12-22,40,Bistro
+14,Perusahaan Kuliner 14,Jl. Raya No. 24,Semarang,Jawa Tengah,96673,8244703907,contact14@kuliner.com,2016-04-21,153,Warung Makan
+15,Perusahaan Kuliner 15,Jl. Raya No. 41,Denpasar,Bali,40512,8930379756,contact15@kuliner.com,1993-06-09,199,Bakery
+16,Perusahaan Kuliner 16,Jl. Raya No. 143,Makassar,Sulawesi Selatan,69429,8682560971,contact16@kuliner.com,2018-05-19,191,Kedai Kopi
+17,Perusahaan Kuliner 17,Jl. Raya No. 84,Jakarta,DKI Jakarta,58520,8381469012,contact17@kuliner.com,1997-02-16,348,Restoran
+18,Perusahaan Kuliner 18,Jl. Raya No. 137,Bandung,Jawa Barat,99593,8695822698,contact18@kuliner.com,1992-06-06,316,Katering
+19,Perusahaan Kuliner 19,Jl. Raya No. 88,Surabaya,Jawa Timur,80010,8782893941,contact19@kuliner.com,1998-05-01,88,Kafe
+20,Perusahaan Kuliner 20,Jl. Raya No. 237,Medan,Sumatera Utara,59735,8289854268,contact20@kuliner.com,2023-09-02,478,Food Truck
+21,Perusahaan Kuliner 21,Jl. Raya No. 286,Yogyakarta,DI Yogyakarta,38785,8735098955,contact21@kuliner.com,2001-01-13,436,Bistro
+22,Perusahaan Kuliner 22,Jl. Raya No. 29,Semarang,Jawa Tengah,40021,8882403818,contact22@kuliner.com,1991-02-03,417,Warung Makan
+23,Perusahaan Kuliner 23,Jl. Raya No. 162,Denpasar,Bali,62581,8287484583,contact23@kuliner.com,1992-04-02,113,Bakery
+24,Perusahaan Kuliner 24,Jl. Raya No. 291,Makassar,Sulawesi Selatan,51245,8228306011,contact24@kuliner.com,2012-04-20,260,Kedai Kopi
+25,Perusahaan Kuliner 25,Jl. Raya No. 203,Jakarta,DKI Jakarta,94259,8492688426,contact25@kuliner.com,1994-11-11,140,Restoran
+26,Perusahaan Kuliner 26,Jl. Raya No. 72,Bandung,Jawa Barat,42325,8799925830,contact26@kuliner.com,2009-02-06,280,Katering
+27,Perusahaan Kuliner 27,Jl. Raya No. 135,Surabaya,Jawa Timur,86622,8460027313,contact27@kuliner.com,2020-07-19,303,Kafe
+28,Perusahaan Kuliner 28,Jl. Raya No. 205,Medan,Sumatera Utara,57447,8235493870,contact28@kuliner.com,2023-12-08,75,Food Truck
+29,Perusahaan Kuliner 29,Jl. Raya No. 261,Yogyakarta,DI Yogyakarta,74686,8097613238,contact29@kuliner.com,2015-09-19,29,Bistro
+30,Perusahaan Kuliner 30,Jl. Raya No. 57,Semarang,Jawa Tengah,30033,8673715057,contact30@kuliner.com,1995-06-12,410,Warung Makan
+31,Perusahaan Kuliner 31,Jl. Raya No. 217,Denpasar,Bali,88172,8068212356,contact31@kuliner.com,2003-02-03,200,Bakery
+32,Perusahaan Kuliner 32,Jl. Raya No. 240,Makassar,Sulawesi Selatan,79352,8269953851,contact32@kuliner.com,2023-01-16,288,Kedai Kopi
+33,Perusahaan Kuliner 33,Jl. Raya No. 6,Jakarta,DKI Jakarta,99166,8773869166,contact33@kuliner.com,1993-11-24,354,Restoran
+34,Perusahaan Kuliner 34,Jl. Raya No. 275,Bandung,Jawa Barat,44973,8825276600,contact34@kuliner.com,2011-10-23,179,Katering
+35,Perusahaan Kuliner 35,Jl. Raya No. 58,Surabaya,Jawa Timur,48469,8466825638,contact35@kuliner.com,1995-05-20,237,Kafe
+36,Perusahaan Kuliner 36,Jl. Raya No. 2,Medan,Sumatera Utara,44522,8537500247,contact36@kuliner.com,2015-12-05,96,Food Truck
+37,Perusahaan Kuliner 37,Jl. Raya No. 260,Yogyakarta,DI Yogyakarta,23947,8934712197,contact37@kuliner.com,2011-04-11,157,Bistro
+38,Perusahaan Kuliner 38,Jl. Raya No. 260,Semarang,Jawa Tengah,89818,8213579170,contact38@kuliner.com,1995-03-15,196,Warung Makan
+39,Perusahaan Kuliner 39,Jl. Raya No. 83,Denpasar,Bali,80697,8836043811,contact39@kuliner.com,2021-05-21,276,Bakery
+40,Perusahaan Kuliner 40,Jl. Raya No. 1,Makassar,Sulawesi Selatan,88504,8348059918,contact40@kuliner.com,2006-08-17,14,Kedai Kopi
+41,Perusahaan Kuliner 41,Jl. Raya No. 58,Jakarta,DKI Jakarta,57576,8943520428,contact41@kuliner.com,2023-07-12,430,Restoran
+42,Perusahaan Kuliner 42,Jl. Raya No. 158,Bandung,Jawa Barat,41385,8062196678,contact42@kuliner.com,1998-03-13,454,Katering
+43,Perusahaan Kuliner 43,Jl. Raya No. 291,Surabaya,Jawa Timur,20322,8091969690,contact43@kuliner.com,2014-11-26,253,Kafe
+44,Perusahaan Kuliner 44,Jl. Raya No. 36,Medan,Sumatera Utara,79822,8822308461,contact44@kuliner.com,1994-04-12,70,Food Truck
+45,Perusahaan Kuliner 45,Jl. Raya No. 244,Yogyakarta,DI Yogyakarta,82063,8177303722,contact45@kuliner.com,1999-01-08,275,Bistro
+46,Perusahaan Kuliner 46,Jl. Raya No. 217,Semarang,Jawa Tengah,37760,8997413271,contact46@kuliner.com,2008-05-08,391,Warung Makan
+47,Perusahaan Kuliner 47,Jl. Raya No. 103,Denpasar,Bali,50857,8428414718,contact47@kuliner.com,2023-11-11,348,Bakery
+48,Perusahaan Kuliner 48,Jl. Raya No. 192,Makassar,Sulawesi Selatan,67422,8965953266,contact48@kuliner.com,2007-08-12,236,Kedai Kopi
+49,Perusahaan Kuliner 49,Jl. Raya No. 62,Jakarta,DKI Jakarta,42493,8241266931,contact49@kuliner.com,1992-03-06,178,Restoran
+50,Perusahaan Kuliner 50,Jl. Raya No. 11,Bandung,Jawa Barat,87110,8594768704,contact50@kuliner.com,1997-10-30,306,Katering
