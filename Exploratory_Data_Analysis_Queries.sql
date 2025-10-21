@@ -1,0 +1,29 @@
+-- STEPH 4, PROSES EKPLORASI AWAL UNTUK DATA
+
+-- MELIHAT TOP 10 PRODUK TERLARIS DARI TOTAL PENJUALAN -- 
+SELECT p.Nama_Produk, SUM(t.Jumlah) AS total_terjual
+FROM transaksi t
+JOIN produk p ON t.Id_Produk = p.Id_Produk
+GROUP BY p.Nama_Produk
+ORDER BY total_terjual DESC
+LIMIT 10;
+
+-- MELIHAT JUMLAH PELANGGAN TIAP PERKOTA -- 
+SELECT kota, COUNT(*) AS jumlah_pelanggan 
+FROM pelanggan
+GROUP BY kota
+ORDER BY jumlah_pelanggan DESC;
+-- PENJELASAN --
+-- URUTAN JUMLAH PELANGGAN TERBANYAK --
+-- 1. SURABAYA = 271 PELANGGAN
+-- 2. MAKASSAR = 267 PELANGGAN
+-- 3. DENPASAR = 261
+-- 4. BANDUNG = 257
+-- 5. SEMARANG = 241
+-- 6. JAKARTA = 236
+-- 7. YOGYAKARTA = 235
+-- 8. MEDAN = 232
+
+
+
+
