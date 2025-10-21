@@ -1,0 +1,301 @@
+id_produk,id_perusahaan,nama_produk,kategori,harga,stok_tersedia
+1,15,Produk 1 Spesial,Makanan Berat,73706,7
+2,15,Produk 2 Spesial,Makanan Berat,87367,9
+3,33,Produk 3 Mantap,Minuman,21724,27
+4,35,Produk 4 Mantap,Desserts,17290,60
+5,27,Produk 5 Mantap,Makanan Berat,18724,55
+6,23,Produk 6 Premium,Desserts,24011,93
+7,4,Produk 7 Spesial,Makanan Berat,46236,43
+8,7,Produk 8 Mantap,Makanan Ringan,27119,57
+9,9,Produk 9 Premium,Makanan Ringan,35069,31
+10,5,Produk 10 Premium,Makanan Berat,14553,69
+11,1,Produk 11 Spesial,Makanan Ringan,24968,62
+12,31,Produk 12 Mantap,Desserts,37073,21
+13,25,Produk 13 Spesial,Desserts,17956,100
+14,30,Produk 14 Lezat,Desserts,30898,93
+15,36,Produk 15 Premium,Makanan Ringan,27091,27
+16,4,Produk 16 Segar,Makanan Berat,77318,7
+17,4,Produk 17 Segar,Desserts,25086,67
+18,11,Produk 18 Spesial,Makanan Berat,86621,8
+19,39,Produk 19 Spesial,Makanan Ringan,46340,72
+20,16,Produk 20 Segar,Makanan Berat,65744,53
+21,43,Produk 21 Segar,Minuman,28368,26
+22,43,Produk 22 Lezat,Makanan Ringan,33905,16
+23,43,Produk 23 Lezat,Desserts,19485,96
+24,5,Produk 24 Spesial,Desserts,28635,72
+25,7,Produk 25 Spesial,Makanan Ringan,55530,16
+26,23,Produk 26 Spesial,Makanan Ringan,43257,20
+27,29,Produk 27 Segar,Minuman,20292,83
+28,34,Produk 28 Spesial,Minuman,28294,13
+29,9,Produk 29 Lezat,Makanan Berat,90074,95
+30,36,Produk 30 Mantap,Minuman,12044,26
+31,46,Produk 31 Lezat,Makanan Ringan,71875,33
+32,33,Produk 32 Premium,Minuman,27633,6
+33,6,Produk 33 Premium,Minuman,6102,42
+34,50,Produk 34 Mantap,Minuman,9040,56
+35,36,Produk 35 Premium,Makanan Berat,20069,88
+36,10,Produk 36 Segar,Makanan Berat,85114,74
+37,36,Produk 37 Mantap,Desserts,13823,39
+38,24,Produk 38 Spesial,Minuman,10252,31
+39,43,Produk 39 Spesial,Minuman,24503,52
+40,40,Produk 40 Mantap,Makanan Ringan,87815,22
+41,27,Produk 41 Spesial,Makanan Ringan,76291,42
+42,27,Produk 42 Mantap,Minuman,8980,89
+43,7,Produk 43 Premium,Makanan Berat,87273,28
+44,13,Produk 44 Premium,Minuman,12630,29
+45,15,Produk 45 Spesial,Makanan Ringan,45862,35
+46,5,Produk 46 Lezat,Minuman,21037,51
+47,44,Produk 47 Segar,Minuman,28481,14
+48,17,Produk 48 Mantap,Minuman,5956,76
+49,28,Produk 49 Lezat,Minuman,15910,65
+50,8,Produk 50 Premium,Makanan Ringan,32925,90
+51,28,Produk 51 Spesial,Makanan Ringan,42780,8
+52,43,Produk 52 Lezat,Minuman,21585,15
+53,47,Produk 53 Lezat,Minuman,21672,41
+54,26,Produk 54 Lezat,Makanan Ringan,27266,85
+55,25,Produk 55 Mantap,Minuman,15152,0
+56,20,Produk 56 Lezat,Makanan Ringan,48690,74
+57,39,Produk 57 Lezat,Desserts,23254,86
+58,14,Produk 58 Segar,Desserts,33812,94
+59,11,Produk 59 Spesial,Minuman,17886,81
+60,40,Produk 60 Lezat,Makanan Berat,83658,96
+61,16,Produk 61 Lezat,Makanan Ringan,82591,18
+62,2,Produk 62 Spesial,Makanan Ringan,98554,78
+63,50,Produk 63 Spesial,Desserts,22433,80
+64,37,Produk 64 Mantap,Desserts,24831,31
+65,10,Produk 65 Spesial,Makanan Berat,80058,28
+66,12,Produk 66 Segar,Desserts,11507,31
+67,8,Produk 67 Premium,Makanan Ringan,82127,85
+68,34,Produk 68 Segar,Minuman,28751,56
+69,40,Produk 69 Segar,Desserts,34917,70
+70,29,Produk 70 Mantap,Desserts,23502,96
+71,16,Produk 71 Lezat,Desserts,28802,35
+72,29,Produk 72 Spesial,Minuman,10862,42
+73,21,Produk 73 Segar,Makanan Berat,22454,29
+74,25,Produk 74 Mantap,Makanan Ringan,15781,52
+75,22,Produk 75 Segar,Desserts,22473,26
+76,27,Produk 76 Premium,Makanan Berat,87106,97
+77,37,Produk 77 Premium,Desserts,10177,45
+78,20,Produk 78 Premium,Desserts,26147,94
+79,35,Produk 79 Segar,Makanan Ringan,53941,34
+80,28,Produk 80 Premium,Makanan Berat,44997,85
+81,44,Produk 81 Premium,Makanan Ringan,85646,16
+82,40,Produk 82 Segar,Makanan Berat,91624,75
+83,37,Produk 83 Spesial,Makanan Berat,67847,17
+84,30,Produk 84 Mantap,Makanan Berat,33414,41
+85,14,Produk 85 Premium,Minuman,13438,48
+86,18,Produk 86 Premium,Minuman,25873,60
+87,2,Produk 87 Segar,Makanan Berat,99992,44
+88,15,Produk 88 Spesial,Makanan Berat,77881,31
+89,13,Produk 89 Spesial,Makanan Ringan,31469,60
+90,43,Produk 90 Spesial,Makanan Ringan,51853,32
+91,50,Produk 91 Lezat,Makanan Ringan,64530,95
+92,46,Produk 92 Spesial,Makanan Ringan,96825,13
+93,38,Produk 93 Spesial,Minuman,19395,48
+94,26,Produk 94 Mantap,Makanan Berat,63289,80
+95,16,Produk 95 Spesial,Minuman,26257,76
+96,8,Produk 96 Segar,Makanan Berat,41248,54
+97,43,Produk 97 Lezat,Makanan Berat,55536,43
+98,1,Produk 98 Premium,Desserts,13166,46
+99,41,Produk 99 Premium,Makanan Ringan,49194,93
+100,34,Produk 100 Lezat,Desserts,23946,93
+101,38,Produk 101 Lezat,Minuman,26293,11
+102,18,Produk 102 Premium,Makanan Ringan,77543,72
+103,40,Produk 103 Premium,Minuman,5717,41
+104,12,Produk 104 Premium,Makanan Ringan,41934,33
+105,22,Produk 105 Lezat,Minuman,18895,66
+106,13,Produk 106 Spesial,Makanan Ringan,74807,62
+107,36,Produk 107 Mantap,Desserts,29377,62
+108,29,Produk 108 Spesial,Makanan Berat,36481,51
+109,45,Produk 109 Mantap,Minuman,21599,47
+110,31,Produk 110 Segar,Minuman,15638,95
+111,36,Produk 111 Lezat,Minuman,22571,34
+112,20,Produk 112 Lezat,Makanan Ringan,20859,24
+113,21,Produk 113 Spesial,Makanan Ringan,27239,94
+114,31,Produk 114 Lezat,Minuman,29513,24
+115,19,Produk 115 Mantap,Minuman,9486,1
+116,46,Produk 116 Segar,Makanan Ringan,34688,6
+117,36,Produk 117 Lezat,Makanan Ringan,67408,96
+118,32,Produk 118 Spesial,Makanan Berat,61666,60
+119,31,Produk 119 Premium,Minuman,9609,6
+120,17,Produk 120 Premium,Makanan Berat,83990,51
+121,32,Produk 121 Spesial,Makanan Berat,23655,72
+122,20,Produk 122 Spesial,Makanan Ringan,20661,97
+123,27,Produk 123 Segar,Makanan Ringan,79812,48
+124,29,Produk 124 Premium,Minuman,26504,54
+125,20,Produk 125 Segar,Makanan Berat,64867,94
+126,7,Produk 126 Mantap,Makanan Ringan,33818,10
+127,11,Produk 127 Mantap,Makanan Ringan,59679,20
+128,1,Produk 128 Premium,Desserts,30681,60
+129,19,Produk 129 Spesial,Makanan Ringan,35929,36
+130,45,Produk 130 Premium,Makanan Berat,71865,33
+131,41,Produk 131 Segar,Makanan Ringan,48263,69
+132,15,Produk 132 Mantap,Minuman,25666,9
+133,4,Produk 133 Mantap,Minuman,19876,72
+134,19,Produk 134 Premium,Makanan Berat,52183,38
+135,45,Produk 135 Premium,Minuman,17512,63
+136,29,Produk 136 Spesial,Makanan Berat,90048,94
+137,21,Produk 137 Segar,Minuman,5647,29
+138,44,Produk 138 Segar,Makanan Berat,99962,86
+139,18,Produk 139 Segar,Makanan Berat,78680,22
+140,31,Produk 140 Segar,Desserts,37482,23
+141,38,Produk 141 Premium,Desserts,39072,60
+142,23,Produk 142 Premium,Minuman,13026,13
+143,11,Produk 143 Lezat,Desserts,30810,36
+144,43,Produk 144 Premium,Makanan Berat,50934,40
+145,17,Produk 145 Lezat,Makanan Berat,97317,51
+146,33,Produk 146 Spesial,Desserts,22397,24
+147,34,Produk 147 Lezat,Desserts,28762,97
+148,4,Produk 148 Mantap,Minuman,18730,36
+149,29,Produk 149 Premium,Makanan Berat,12598,80
+150,39,Produk 150 Mantap,Makanan Ringan,37968,1
+151,36,Produk 151 Premium,Makanan Berat,30223,14
+152,30,Produk 152 Spesial,Makanan Ringan,54854,91
+153,19,Produk 153 Segar,Minuman,15387,61
+154,31,Produk 154 Mantap,Desserts,26538,49
+155,13,Produk 155 Segar,Makanan Ringan,87762,35
+156,50,Produk 156 Premium,Minuman,28356,64
+157,18,Produk 157 Spesial,Minuman,23151,75
+158,38,Produk 158 Premium,Makanan Ringan,50189,61
+159,23,Produk 159 Lezat,Desserts,23660,41
+160,13,Produk 160 Mantap,Desserts,17007,99
+161,27,Produk 161 Spesial,Minuman,23618,90
+162,25,Produk 162 Premium,Makanan Ringan,54580,4
+163,9,Produk 163 Segar,Minuman,26743,56
+164,7,Produk 164 Segar,Desserts,10460,18
+165,27,Produk 165 Mantap,Makanan Berat,52254,33
+166,22,Produk 166 Segar,Desserts,29495,42
+167,44,Produk 167 Segar,Desserts,38624,80
+168,46,Produk 168 Premium,Makanan Berat,65571,30
+169,41,Produk 169 Lezat,Makanan Ringan,77209,55
+170,7,Produk 170 Spesial,Desserts,14991,38
+171,2,Produk 171 Spesial,Minuman,24904,37
+172,23,Produk 172 Lezat,Desserts,14367,67
+173,27,Produk 173 Segar,Makanan Ringan,25299,10
+174,40,Produk 174 Premium,Makanan Ringan,54790,74
+175,10,Produk 175 Mantap,Desserts,29137,58
+176,17,Produk 176 Spesial,Desserts,37036,86
+177,35,Produk 177 Mantap,Makanan Berat,49756,44
+178,38,Produk 178 Lezat,Desserts,30709,58
+179,20,Produk 179 Mantap,Desserts,35600,13
+180,16,Produk 180 Premium,Minuman,19370,89
+181,19,Produk 181 Spesial,Desserts,18234,72
+182,44,Produk 182 Spesial,Desserts,34985,36
+183,50,Produk 183 Mantap,Minuman,10475,24
+184,40,Produk 184 Lezat,Makanan Ringan,66542,80
+185,42,Produk 185 Spesial,Minuman,24715,4
+186,38,Produk 186 Lezat,Makanan Ringan,18112,37
+187,21,Produk 187 Premium,Makanan Ringan,28072,100
+188,35,Produk 188 Lezat,Minuman,25762,32
+189,31,Produk 189 Lezat,Minuman,25106,59
+190,5,Produk 190 Mantap,Makanan Ringan,87413,92
+191,44,Produk 191 Premium,Minuman,7258,50
+192,1,Produk 192 Lezat,Makanan Berat,50931,86
+193,48,Produk 193 Lezat,Desserts,34673,47
+194,7,Produk 194 Mantap,Desserts,10751,71
+195,21,Produk 195 Segar,Makanan Ringan,68289,81
+196,30,Produk 196 Lezat,Desserts,13500,5
+197,3,Produk 197 Lezat,Desserts,13484,30
+198,35,Produk 198 Mantap,Desserts,23609,85
+199,48,Produk 199 Segar,Desserts,27620,93
+200,10,Produk 200 Premium,Makanan Berat,85032,78
+201,27,Produk 201 Lezat,Makanan Berat,72125,27
+202,29,Produk 202 Premium,Makanan Ringan,86991,12
+203,44,Produk 203 Lezat,Minuman,6514,35
+204,13,Produk 204 Spesial,Desserts,12750,27
+205,42,Produk 205 Segar,Makanan Berat,14552,42
+206,16,Produk 206 Mantap,Makanan Ringan,16175,97
+207,36,Produk 207 Mantap,Makanan Ringan,83175,29
+208,22,Produk 208 Mantap,Makanan Berat,34955,18
+209,9,Produk 209 Segar,Minuman,24963,14
+210,43,Produk 210 Spesial,Makanan Ringan,11337,100
+211,16,Produk 211 Segar,Minuman,5395,33
+212,4,Produk 212 Mantap,Desserts,25783,95
+213,5,Produk 213 Premium,Desserts,33341,65
+214,38,Produk 214 Spesial,Desserts,25115,78
+215,3,Produk 215 Segar,Minuman,16451,3
+216,4,Produk 216 Premium,Desserts,22788,13
+217,32,Produk 217 Premium,Makanan Berat,90934,41
+218,39,Produk 218 Mantap,Makanan Berat,21357,79
+219,41,Produk 219 Segar,Minuman,14523,76
+220,34,Produk 220 Lezat,Desserts,25167,55
+221,7,Produk 221 Spesial,Makanan Ringan,48706,29
+222,27,Produk 222 Lezat,Desserts,21962,93
+223,7,Produk 223 Lezat,Desserts,19376,32
+224,24,Produk 224 Mantap,Desserts,12014,10
+225,6,Produk 225 Premium,Makanan Berat,77013,47
+226,9,Produk 226 Segar,Makanan Berat,62782,71
+227,36,Produk 227 Lezat,Makanan Berat,46973,85
+228,49,Produk 228 Premium,Makanan Berat,97156,76
+229,20,Produk 229 Lezat,Makanan Berat,62013,27
+230,10,Produk 230 Premium,Makanan Ringan,86255,44
+231,36,Produk 231 Lezat,Makanan Berat,78635,73
+232,15,Produk 232 Premium,Makanan Berat,64810,84
+233,45,Produk 233 Lezat,Makanan Berat,26237,89
+234,49,Produk 234 Lezat,Minuman,13776,23
+235,10,Produk 235 Segar,Desserts,12088,94
+236,41,Produk 236 Spesial,Makanan Berat,77150,27
+237,25,Produk 237 Premium,Desserts,20227,47
+238,20,Produk 238 Lezat,Makanan Berat,89501,19
+239,11,Produk 239 Segar,Makanan Berat,70657,34
+240,29,Produk 240 Premium,Desserts,28212,53
+241,18,Produk 241 Mantap,Makanan Berat,41066,14
+242,19,Produk 242 Segar,Desserts,25808,39
+243,3,Produk 243 Mantap,Desserts,39533,7
+244,1,Produk 244 Mantap,Minuman,28633,98
+245,9,Produk 245 Lezat,Minuman,13203,0
+246,32,Produk 246 Premium,Makanan Ringan,21627,68
+247,46,Produk 247 Mantap,Minuman,6802,94
+248,3,Produk 248 Premium,Makanan Berat,51378,9
+249,21,Produk 249 Segar,Desserts,27202,90
+250,41,Produk 250 Premium,Minuman,7879,2
+251,21,Produk 251 Mantap,Desserts,34961,46
+252,6,Produk 252 Premium,Makanan Berat,31898,75
+253,26,Produk 253 Segar,Makanan Berat,45619,39
+254,48,Produk 254 Lezat,Makanan Ringan,39976,21
+255,5,Produk 255 Segar,Makanan Berat,57754,24
+256,50,Produk 256 Lezat,Minuman,23184,82
+257,10,Produk 257 Mantap,Makanan Berat,23180,25
+258,12,Produk 258 Segar,Makanan Ringan,78419,83
+259,5,Produk 259 Mantap,Desserts,23919,72
+260,49,Produk 260 Segar,Desserts,30434,72
+261,42,Produk 261 Segar,Minuman,26606,80
+262,21,Produk 262 Mantap,Desserts,12049,56
+263,41,Produk 263 Lezat,Minuman,19785,45
+264,33,Produk 264 Spesial,Minuman,16544,4
+265,4,Produk 265 Lezat,Minuman,6918,11
+266,40,Produk 266 Segar,Desserts,23881,70
+267,48,Produk 267 Spesial,Desserts,37271,73
+268,42,Produk 268 Mantap,Minuman,20125,64
+269,10,Produk 269 Spesial,Desserts,13105,43
+270,46,Produk 270 Spesial,Makanan Ringan,13523,90
+271,29,Produk 271 Premium,Makanan Ringan,42751,36
+272,25,Produk 272 Premium,Minuman,21972,6
+273,41,Produk 273 Lezat,Makanan Berat,39672,71
+274,44,Produk 274 Premium,Minuman,11300,84
+275,39,Produk 275 Mantap,Minuman,7038,84
+276,10,Produk 276 Lezat,Minuman,29192,89
+277,43,Produk 277 Premium,Makanan Ringan,63554,10
+278,20,Produk 278 Segar,Desserts,29305,42
+279,9,Produk 279 Segar,Makanan Berat,68142,54
+280,33,Produk 280 Lezat,Makanan Berat,42634,23
+281,14,Produk 281 Lezat,Desserts,15760,17
+282,10,Produk 282 Spesial,Minuman,26111,12
+283,33,Produk 283 Segar,Makanan Berat,69574,98
+284,40,Produk 284 Mantap,Desserts,14628,23
+285,45,Produk 285 Segar,Makanan Ringan,74906,5
+286,27,Produk 286 Lezat,Makanan Ringan,97263,78
+287,19,Produk 287 Premium,Makanan Ringan,58061,39
+288,31,Produk 288 Mantap,Minuman,21958,73
+289,29,Produk 289 Premium,Minuman,24453,64
+290,34,Produk 290 Premium,Makanan Ringan,83520,77
+291,9,Produk 291 Lezat,Makanan Berat,67706,47
+292,36,Produk 292 Spesial,Makanan Berat,35656,97
+293,11,Produk 293 Lezat,Desserts,37159,18
+294,28,Produk 294 Spesial,Makanan Ringan,83503,44
+295,2,Produk 295 Premium,Makanan Berat,45681,47
+296,16,Produk 296 Premium,Makanan Berat,43742,3
+297,21,Produk 297 Spesial,Minuman,24785,17
+298,3,Produk 298 Lezat,Desserts,30882,17
+299,49,Produk 299 Premium,Desserts,28460,10
+300,2,Produk 300 Lezat,Makanan Ringan,85147,70
